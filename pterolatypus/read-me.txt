@@ -1,0 +1,43 @@
+*******************************************************************************************************************
+- FRANCAIS -
+*******************************************************************************************************************
+
+-----------------------
+   Modifier le logo
+-----------------------
+Taille du logo: 256x256
+Nom: griffy.png
+
+Soit vous mettez un autre logo au même nom ou soit vous modifiez le nom du fichier ligne 25 du fichier squad.xsl
+
+
+-----------------------
+ Modification Générale
+-----------------------
+
+Toutes les informations se modifient dans le fichier squad.xml
+Je vous conseille d'utiliser le logiciel Notepad++ qui colorise les balises et est simple d'utilisation.
+
+
+
+
+*******************************************************************************************************************
+- TRANSLATE ENGLISH BY GOOGLE
+*******************************************************************************************************************
+
+
+-----------------------
+    Change the logo
+-----------------------
+Logo size: 256x256
+Name: griffy.png
+
+Either you put another logo or name or the same you change the file name line 25 of file squad.xsl
+
+
+-----------------------
+  Changing General
+-----------------------
+
+All information in the file change squad.xml
+I suggest you use Notepad + + software that colorizes tags and is easy to use.
