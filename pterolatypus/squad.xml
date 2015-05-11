@@ -2,115 +2,17 @@
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
 
-<squad nick="GriF">
-<name>GriF-Touch</name>
-<email>contact@grif-touch.com</email>
-<web>http://www.grif-touch.com/</web>
-<picture>grif.paa</picture>
-<title>Groupe de Recherche et d'Investigation Francophone</title>	
+<squad nick="WW">
+	<name>White Wolves</name>
+	<email</email>
+	<web></web>
+	<picture></picture>
+	<title></title>	
 
-<member id="10094821" nick="KissDavid">
-<name>David</name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark>Leader de la Team GriF-Touch - Rejoignez-nous sur Mumble: s1.mymumble.fr - Port: 21142</remark>
-</member>
-
-<member id="5213718" nick="Fab">
-<name>Fabien</name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark>Membre officiel de la Team GriF-Touch</remark>
-</member>
-
-<member id="111906862" nick="Isos">
-<name>Dorian</name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark>Membre officiel de la Team GriF-Touch</remark>
-</member>
-
-<member id="110964564" nick="researcher37">
-<name>Sylvain</name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark>Membre officiel de la Team GriF-Touch</remark>
-</member>
-
-<member id="7938224" nick="Axis-Fury">
-<name>Karim</name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark>Membre officiel de la Team GriF-Touch</remark>
-</member>
-
-<member id="" nick="T3Rr0R">
-<name>Hamed</name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark>Membre officiel de la Team GriF-Touch</remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
-
-<member id="" nick="">
-<name></name>
-<email>N/A</email>
-<icq>N/A</icq>
-<remark></remark>
-</member>
+	<member id="10094821" nick="Arkansas">
+	<name>Arkansas</name>
+	<email>N/A</email>
+	<icq>N/A</icq>
+	<remark></remark>
+	</member>
 </squad>
